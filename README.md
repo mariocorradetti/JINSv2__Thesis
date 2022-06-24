@@ -20,7 +20,7 @@
 ![Mask R-CNN](Images/2PointRend.png)
 
 # Mask R-CNN (Moon)
-![Mask R-CNN](Images/Mis1RCNN.png)
+![Mask R-CNN](Images/mis1RCNN.png)
 
 # PointRend (Moon)
-![PointRend](Images/Mis1Point.png)
+![PointRend](Images/mis1Point.png)

@@ -13,4 +13,8 @@
 
 **4** : The .ipynb files for the neural network will be loaded later.
 
+# Mask R-CNN (Satellite scene)
+![Mask R-CNN](Images/2MRCNN.png)
 
+# Point Rend (Satellite scene)
+![Mask R-CNN](Images/2PointRend.png)
